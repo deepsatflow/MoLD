@@ -52,6 +52,9 @@ Each pair of gp120 and gp41 proteins forms a trimer using a noncovalent bond. Th
 
 <img width="1420" alt="image" src="https://github.com/satishgaurav/MoLD/assets/36672530/72f3134f-57b9-417f-a8f9-9ddc20001f90">
 
+### HIV Enzyme
+HIV has three enzymes namely protease, reverse transcriptase, and integrase. Each of these enzymes plays a critical role in HIV replication. 
+
 ## HIV Virus Life Cycle: 
 
 <img width="1362" alt="image" src="https://github.com/satishgaurav/MoLD/assets/36672530/fb67efff-a66a-4687-9e49-351730657cb3">
