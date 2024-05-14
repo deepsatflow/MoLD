@@ -1,6 +1,12 @@
-# Docking small molecules to HIV-1 proteins
+# MoLD: Molecular Docking & Molecular Dynamics 
 
-## RNA of HIV virus
+## Molecular docking of small molecules to HIV-1 proteins
+
+
+### Workflow
+Training data --> Train Chemprop model --> Predict/Screen new molecules --> Dock molecules to HIV-1 proteins --> Predict binding affinity  
+
+## RNA of HIV-1 virus
 
 <img width="1132" alt="image" src="https://github.com/satishgaurav/MoLD/assets/36672530/d5e059ce-6715-4028-b29b-2c5e09c8df5d">
 
